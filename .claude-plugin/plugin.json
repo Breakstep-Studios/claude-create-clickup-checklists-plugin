@@ -1,0 +1,5 @@
+{
+  "name": "create-clickup-checklists",
+  "description": "Create ClickUp checklists and checklist items through the ClickUp REST API, which the ClickUp MCP can't do.",
+  "version": "1.0.0"
+}
