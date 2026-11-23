@@ -5,7 +5,7 @@ description: Create checklists and checklist items on a ClickUp task through the
 
 # Create ClickUp Checklists
 
-The ClickUp MCP can't create checklists. Use the REST API with the token in `~/.clickup/token`. Never print the token.
+**The ClickUp MCP can't create checklists.** Use the REST API with the token in `~/.clickup/token`. Never print the token.
 
 ```bash
 TOKEN=$(cat ~/.clickup/token); API=https://api.clickup.com/api/v2
